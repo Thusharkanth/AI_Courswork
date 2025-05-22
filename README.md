@@ -12,25 +12,28 @@
 
 ## 📂 Repository Structure
 
+
+```bash
 ai-cw/
-├── AI CW report.docx # Final coursework report
-├── AI CW report.pdf # PDF version of report
-├── CM2602 AI - CourseWork - Pending Moderation.pdf # Original coursework brief
-├── Q2/ # Ontology Engineering
-│ ├── concept graph-Page-1.jpg # Visual concept graph
-│ └── concept graph.drawio # Source file for concept graph
-├── Q3-search/ # Search Algorithms
-│ ├── Maze_Setup.py # Maze initialization
-│ ├── Task_1_maze_Setup.py # Random maze generator
-│ ├── Task_2_UCS_code.py # Uniform Cost Search
-│ ├── Task_3_Heuristic_Fun.py # Chebyshev heuristic
-│ ├── Task_4_A_star.py # A* implementation
-│ ├── Task_5.py # Comparative analysis
-│ └── pycache/ # Compiled Python files
-├── Q4-fuzzy logic/ # Fuzzy Logic System
-│ └── Smart_grid_Fuzzy_Logic.py # Anomaly detection for smart grids
-├── ai cw.xlsx # CSP Excel solution
+├── AI CW report.docx                 # Final coursework report
+├── AI CW report.pdf                  # PDF version of report
+├── CM2602 AI - CourseWork - Pending Moderation.pdf  # Original coursework brief
+├── Q2/                               # Ontology Engineering
+│   ├── concept graph-Page-1.jpg      # Visual concept graph
+│   └── concept graph.drawio          # Source file for concept graph
+├── Q3-search/                        # Search Algorithms
+│   ├── Maze_Setup.py                 # Maze initialization
+│   ├── Task_1_maze_Setup.py          # Random maze generator
+│   ├── Task_2_UCS_code.py            # Uniform Cost Search
+│   ├── Task_3_Heuristic_Fun.py       # Chebyshev heuristic
+│   ├── Task_4_A_star.py              # A* implementation
+│   ├── Task_5.py                     # Comparative analysis
+│   └── __pycache__/                  # Compiled Python files
+├── Q4-fuzzy logic/                   # Fuzzy Logic System
+│   └── Smart_grid_Fuzzy_Logic.py     # Anomaly detection for smart grids
+├── ai cw.xlsx                        # CSP Excel solution
 └── thusharkanth_20233168_2410213.pdf # Submission cover sheet
+```
 
 
 
